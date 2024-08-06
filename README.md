@@ -1,10 +1,18 @@
 ## Running the Application
 
-To run the application, navigate to the root folder and run the following command:
+To run the application, follow these steps:
 
-```bash
-npm run start
+1. Navigate to the root folder of the project.
+2. Install the necessary dependencies by running:
 
-```
+   ```bash
+   npm install
+   ```
 
-the application will most likely run on localhost:3000
+3. Start the application by running:
+
+   ```bash
+   npm run start
+   ```
+
+The application will start and will most likely be accessible at [http://localhost:3000](http://localhost:3000).
